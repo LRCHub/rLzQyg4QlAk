@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "クランベリーとパンケーキ",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-02T13:06:51.042648Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クランベリーとパンケーキ",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_クランベリーとパンケーキ_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "クランベリーとパンケーキ",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_クランベリーとパンケーキ_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "クランベリーとパンケーキ",
+      "artist": "Yonezu, Kenshi",
+      "has_synced": true,
+      "path": "select/03_クランベリーとパンケーキ_Yonezu,_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "クランベリーとパンケーキ",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/04_クランベリーとパンケーキ_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "クランベリーとパンケーキ",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/05_クランベリーとパンケーキ_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "クランベリーとパンケーキ - Cranberry & Pancake",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/06_クランベリーとパンケーキ_-_Cranberry_&_Pancake_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "06 クランベリーとパンケーキ",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/07_06_クランベリーとパンケーキ_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "クランベリーとパンケーキ",
+      "artist": "米津玄师",
+      "has_synced": true,
+      "path": "select/08_クランベリーとパンケーキ_米津玄师.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クランベリーとパンケーキ",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_クランベリーとパンケーキ_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "クランベリーとパンケーキ",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_クランベリーとパンケーキ_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "クランベリーとパンケーキ",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_クランベリーとパンケーキ_米津玄師.txt"
+    }
+  ]
+}
